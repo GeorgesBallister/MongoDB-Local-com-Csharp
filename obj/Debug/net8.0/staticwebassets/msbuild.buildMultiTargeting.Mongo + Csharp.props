@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mongo + Csharp.props" />
+</Project>

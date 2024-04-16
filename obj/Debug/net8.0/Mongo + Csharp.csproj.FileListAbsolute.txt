@@ -1,0 +1,46 @@
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\appsettings.Development.json
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\appsettings.json
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Mongo + Csharp.exe
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Mongo + Csharp.deps.json
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Mongo + Csharp.runtimeconfig.json
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Mongo + Csharp.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Mongo + Csharp.pdb
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\DnsClient.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\SharpCompress.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Snappier.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\ZstdSharp.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.csproj.AssemblyReference.cache
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.AssemblyInfoInputs.cache
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.AssemblyInfo.cs
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.csproj.CoreCompileInputs.cache
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.MvcApplicationPartsAssemblyInfo.cs
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.MvcApplicationPartsAssemblyInfo.cache
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\staticwebassets\msbuild.Mongo + Csharp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\staticwebassets\msbuild.build.Mongo + Csharp.props
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mongo + Csharp.props
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mongo + Csharp.props
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\scopedcss\bundle\Mongo + Csharp.styles.css
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + .0956FF8C.Up2Date
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\refint\Mongo + Csharp.dll
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.pdb
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\Mongo + Csharp.genruntimeconfig.cache
+D:\Sistema\Onedrive\Faculdade\SENAC\Senac 2024-1\BDNC\Mongo + Csharp\obj\Debug\net8.0\ref\Mongo + Csharp.dll

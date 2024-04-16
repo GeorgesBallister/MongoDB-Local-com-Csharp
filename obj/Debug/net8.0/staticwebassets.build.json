@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "01EaSrN68tOTkQ7yCCTKSi1etFxAxNkwfXBAHPWfqHU=",
+  "Source": "Mongo + Csharp",
+  "BasePath": "_content/Mongo + Csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
